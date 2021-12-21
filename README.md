@@ -2,8 +2,8 @@
 
 ### Homework 2
 
-Homework 2 focused on creating a basic throughput tester for a network. The client will keep sending more and more data to the server until the server can't handle it anymore.
-The client then analyzes the number of received packets and uses a formula to deterimne the data throughput from the client to the server.
+Homework 2 focused on creating a basic throughput tester for a network. The client will keep sending more and more data to the server until the change in throughput
+is less than 5%. The client then analyzes the number of received packets and uses a formula to deterimne the general data throughput from the client to the server.
 
 ### Lab 2
 
