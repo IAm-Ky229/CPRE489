@@ -21,7 +21,6 @@ be completely received at secondary after all packages have been received correc
 
 ### Project
 
-The project that I worked on was a Multipath TCP implementation. 3 Different processes were created with fork after their respective connections were established. A control
-connection was also established. The data mapping would be sent on the control connection, and the actual data packets would be sent on the 3 process connections. The data
-was sent in a cyclic manner (thread1, then thread2, then thread3, then back to thread1). The server was to receive the mapping and use it to verify that the message was
-re-constructed correctly.
+The project that I worked on was a Multipath TCP implementation. I mainly worked on the client for this project. 3 Different processes were created with fork after their respective connections were established. A control connection was also established. The data mapping would be sent on the control connection, and the actual data packets
+would be sent on the 3 process connections. The data was sent in a cyclic manner (thread1, then thread2, then thread3, then back to thread1). The server was to receive the
+mapping and use it to verify that the message was re-constructed correctly.
