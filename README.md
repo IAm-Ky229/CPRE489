@@ -1,6 +1,6 @@
 # CPRE489
 
-This class was an introduction to programming with sockets. All the labs for this course were done in C.
+This class was an introduction to computer networking and data communication. All the labs for this course were done in C, and mainly focused on creating and using socket connections.
 
 ### Lab 2
 
