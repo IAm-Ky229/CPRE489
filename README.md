@@ -1,5 +1,10 @@
 # CPRE489
 
+### Homework 2
+
+Homework 2 focused on creating a basic throughput tester for a network. The client will keep sending more and more data to the server until the server can't handle it anymore.
+The client then analyzes the number of received packets and uses a formula to deterimne the data throughput from the client to the server.
+
 ### Lab 2
 
 Lab 2 involved setting up a UDP connection and using this connection to stream a video to a server. A source IP, source port, destination IP, destination port,
