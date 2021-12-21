@@ -1,7 +1,5 @@
 # CPRE489
 
-This class was an introduction to computer networking and data communication. All the labs for this course were done in C, and mainly focused on creating and using socket connections.
-
 ### Lab 2
 
 Lab 2 involved setting up a UDP connection and using this connection to stream a video to a server. A source IP, source port, destination IP, destination port,
